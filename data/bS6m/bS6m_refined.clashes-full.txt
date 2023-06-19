@@ -1,0 +1,4 @@
+BC  97  ILE  O       BC  97  ILE HD12       0.572
+BC  10  ALA  O       BC  63  ARG  N         0.515
+BC   9  LEU HD21     BC  64  TYR  CZ        0.506
+BC  88  GLU  N       BC  88  GLU  OE1       0.461
